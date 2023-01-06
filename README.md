@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Dedoque
-- 👀 I’m interested in DevOpsing or SRE some middle project(s) or some python|golang+reactjs+mongodb|postgres dev.
-- 💞️ I’m looking to collaborate on python | golang developers
-- 📫 How to reach me @dedoque here or telegram.
-
+[[![GitHub stars](https://img.shields.io/github/stars/Dedoque/REPOSITORY?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dedoque/REPOSITORY?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/dedoque/REPOSITORY?style=social)
+![GitHub followers](https://img.shields.io/github/followers/dedoque?style=social)](https://api.visitorbadge.io/api/VisitorHit?user=dedoque)
+![](https://api.visitorbadge.io/api/VisitorHit?user=dedoque)
