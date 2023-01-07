@@ -1,5 +1,11 @@
-[[![GitHub stars](https://img.shields.io/github/stars/Dedoque/REPOSITORY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dedoque/REPOSITORY?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/dedoque/REPOSITORY?style=social)
-![GitHub followers](https://img.shields.io/github/followers/dedoque?style=social)](https://api.visitorbadge.io/api/VisitorHit?user=dedoque)
+
 ![](https://api.visitorbadge.io/api/VisitorHit?user=dedoque)
+
+# Work with
+![](https://skillicons.dev/icons?i=bash,py,ruby,js,react,flask,django,golang,regex,nodejs,postgres,cassandra,mysql,mongo,redis,nginx,prometheus,grafana,k8s,docker,openstack,gitlab,github,vim,linux,bsd)
+...and many more!
+
+![](https://docs.saltproject.io/en/latest/_static/images/SaltStack_white.svg?width=120)
+is best scm ever!
+
+![is open to proposals](https://img.shields.io/badge/NOW-open%20to%20proposals-brightgreen)
