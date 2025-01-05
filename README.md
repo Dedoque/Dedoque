@@ -1,6 +1,4 @@
-
-![](https://api.visitorbadge.io/api/VisitorHit?user=dedoque)
-
+Hi! I`m Dedoque. Somethings about me
 # Work with
 ![](https://skillicons.dev/icons?i=bash,py,flask,django,go,ruby,js,nodejs,react,regex,postgres,cassandra,mysql,mongo,redis,nginx,prometheus,grafana,k8s,docker,openstack,gitlab,github,vim,linux,bsd)
 
@@ -11,3 +9,6 @@
 is best scm ever!
 
 ![is open to proposals](https://img.shields.io/badge/NOW-open%20to%20proposals-brightgreen)
+If you need DevOps, System programmer engineer or SRE are you free to contacts with me! 
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=dedoque)
