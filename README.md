@@ -9,6 +9,7 @@ Hi! I`m Dedoque. Somethings about me
 is best scm ever!
 
 ![is open to proposals](https://img.shields.io/badge/NOW-open%20to%20proposals-brightgreen)
+
 If you need DevOps, System programmer engineer or SRE are you free to contacts with me! 
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=dedoque)
